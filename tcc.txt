@@ -4,5 +4,6 @@ Capitulo 1:
 Capitulo 2:
   Este capitulo refere-se ao segundo capitulo.
 Capitulo 3:
-  Este capitulo refere-se ao terceito capitulo.
+  Este capitulo refere-se ao terceiro capitulo.
 Capitulo 4:
+  Este capitulo refere-se ao quarto capitulo.
